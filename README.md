@@ -6,14 +6,11 @@ designs for 10mm, 11mm, and 12mm balls.
 
 ### Side View.
 
-![side_view](images/view_1.png)
+![view_1](images/view_1.png)
 
 ### Cutaway View 
 
-![cutaway_view](images/view_2.png)
-
-
-
+![view_2](images/view_2.png)
 
 
 
