@@ -10,7 +10,7 @@ designs for 10mm, 11mm, and 12mm balls.
 
 ### Cutaway View 
 
-![cutaway_view](images/view_1.png)
+![cutaway_view](images/view_2.png)
 
 
 
